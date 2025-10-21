@@ -1,0 +1,11 @@
+# Lefordított kód (Bytecode)
+bin/
+*.class
+
+# IDE specifikus fájlok (IntelliJ)
+.idea/
+*.iml
+
+# Generált adatfájlok
+*.dat
+saves/
